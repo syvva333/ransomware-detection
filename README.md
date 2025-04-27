@@ -130,6 +130,6 @@ Pull requests and issues are welcome. If you'd like to improve this app or add a
 
 ## 🌐 Author
 
-Developed by **Shivanya Gautam**  
-🔗 [Your GitHub Profile](https://github.com/syvva333/)
+Developed by 
+🔗 [Shivanya Gautam](https://github.com/syvva333/)
 
